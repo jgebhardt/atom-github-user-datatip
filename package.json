@@ -1,8 +1,8 @@
 {
-  "name": "atom-github-user-datatip",
+  "name": "github-user-datatip",
   "repository": "https://github.com/jgebhardt/atom-github-user-datatip",
   "main": "./lib/main",
-  "version": "0.2.0",
+  "version": "0.0.0",
   "description": "Show GitHub user info when hovering over a @username.",
   "keywords": [
     "datatip",
