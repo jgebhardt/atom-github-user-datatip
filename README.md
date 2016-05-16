@@ -1,6 +1,6 @@
 # Atom Package for GitHub user datatips
 
-https://atom.io/packages/atom-github-user-datatip
+https://atom.io/packages/github-user-datatip
 
 ![Screenshot](https://github.com/jgebhardt/atom-github-user-datatip/raw/master/screenshot.png)
 
