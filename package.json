@@ -1,5 +1,5 @@
 {
-  "name": "gh-user-datatip",
+  "name": "github-user-datatip",
   "repository": "https://github.com/jgebhardt/atom-github-user-datatip",
   "main": "./lib/main",
   "version": "0.2.0",
