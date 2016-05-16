@@ -1,0 +1,28 @@
+{
+  "name": "atom-github-user-datatip",
+  "repository": "https://github.com/jgebhardt/atom-github-user-datatip",
+  "main": "./lib/main",
+  "version": "0.0.1",
+  "description": "Show GitHub user info when hovering over a @username.",
+  "keywords": [
+    "datatip",
+    "github"
+  ],
+  "consumedServices": {
+    "nuclide-datatip.provider": {
+      "versions": {
+        "0.0.0": "consumeDatatipService"
+      }
+    }
+  },
+  "package-deps": [
+    "nuclide"
+  ],
+  "dependencies": {
+    "assert": "^1.3.0",
+    "react-for-atom": "15.0.2-0"
+  },
+  "devDependencies": {
+    "nuclide": "^0.136.0"
+  }
+}
