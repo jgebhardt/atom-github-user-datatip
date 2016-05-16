@@ -1,6 +1,8 @@
 # Atom Package for GitHub user datatips
 
-![Screenshot](screenshot.png)
+https://atom.io/packages/atom-github-user-datatip
+
+![Screenshot](https://github.com/jgebhardt/atom-github-user-datatip/raw/master/screenshot.png)
 
 - uses the Nuclide datatip service API => requires the Nuclide package to be installed in Atom.
 - does not require authentication with GitHub => is subject to rate-limiting.
